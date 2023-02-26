@@ -4,8 +4,8 @@
 
 ## Getting started
 
-1. Register yourself for [OpenAI](https://beta.openai.com/) account. Check if there is any free grant is given, if not, setup a paid account.
-2. Get API key from https://beta.openai.com/account/api-keys
+1. Register yourself for [OpenAI](https://platform.openai.com/) account. Check if there is any free grant is given, if not, setup a paid account.
+2. Get API key from https://platform.openai.com/account/api-keys
 3. Create a file called `.env` in the root of the project and add the following line:
 
    ```
@@ -29,9 +29,10 @@
 
 ## Example results
 
-| Prompt                                                 | Generated image                             |
-| ------------------------------------------------------ | ------------------------------------------- |
-| `A realistic image of a boss cat doing work in office` | ![result1](https://i.imgur.com/kMCLkUO.png) |
-| `A digital art of a lighthouse and andromeda galaxy`   | ![Result2](https://i.imgur.com/yPvoSJS.png) |
-| `Realistic image of human civilization on a mars`      | ![Result3](https://i.imgur.com/ncWoOSX.png) |
-| `A depiction of life in year 3040`                     | ![Result4](https://i.imgur.com/MvTSVam.png) |
+| Prompt                                                   | Generated image                             |
+| -------------------------------------------------------- | ------------------------------------------- |
+| `A realistic image of a boss cat doing work in office`   | ![result1](https://i.imgur.com/kMCLkUO.png) |
+| `A digital art of a lighthouse and andromeda galaxy`     | ![Result2](https://i.imgur.com/yPvoSJS.png) |
+| `Realistic image of human civilization on a mars`        | ![Result3](https://i.imgur.com/ncWoOSX.png) |
+| `A depiction of life in year 3040`                       | ![Result4](https://i.imgur.com/MvTSVam.png) |
+| `profile picture with a man and cat in tech environment` | ![Result4](https://i.imgur.com/WHF3Xnd.png) |
