@@ -29,6 +29,8 @@
 
 ## Example results
 
+**New:** Compare the results with [DALL-E3 generated images](https://github.com/iqfareez/openai-dall-e3#example-results)
+
 | Prompt                                                   | Generated image                             |
 | -------------------------------------------------------- | ------------------------------------------- |
 | `A realistic image of a boss cat doing work in office`   | ![result1](https://i.imgur.com/kMCLkUO.png) |
