@@ -38,3 +38,7 @@
 | `Realistic image of human civilization on a mars`        | ![Result3](https://i.imgur.com/ncWoOSX.png) |
 | `A depiction of life in year 3040`                       | ![Result4](https://i.imgur.com/MvTSVam.png) |
 | `profile picture with a man and cat in tech environment` | ![Result4](https://i.imgur.com/WHF3Xnd.png) |
+
+## Others
+
+Check out newer image generation results! Dall E 3 [here](https://github.com/iqfareez/openai-dall-e3) and Nano Banana [here](https://imgur.com/a/j1taeqV).
